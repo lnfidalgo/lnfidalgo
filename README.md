@@ -2,7 +2,6 @@
 
 - 🔭 Estou em busca da minha primeira vaga com front-end
 - 🌱 Estudando HTML, CSS e JavaScript
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/lnfidalgo">
