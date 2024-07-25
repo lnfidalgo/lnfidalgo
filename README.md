@@ -1,7 +1,7 @@
 ## Olá! Eu sou Lucas Fidalgo
 
-- 🔭 Estou em busca da minha primeira vaga com front-end
-- 🌱 Estudando desenvolvimento web
+- 🔭 Estou em busca da minha primeira vaga Front-end
+- 🌱 Estudando desenvolvimento Fullstack
 
 <div align="center">
   <a href="https://github.com/lnfidalgo">
