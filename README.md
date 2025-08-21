@@ -1,6 +1,6 @@
 ## Olá! Eu sou Lucas Fidalgo
 
-👋 Olá! Sou um Desenvolvedor Front-End Júnior apaixonado por tecnologia.
+👋 Olá! Sou um Desenvolvedor Front-End apaixonado por tecnologia.
 
 💻 Trabalho principalmente com Next.js, React.js, TypeScript, Tailwind CSS e Chakra UI, criando interfaces de usuário modernas e responsivas.
 
