@@ -1,17 +1,16 @@
-## Olá! Eu sou Lucas Fidalgo
+## Hello! I’m Lucas Fidalgo
 
-👋 Olá! Sou um Desenvolvedor Front-End apaixonado por tecnologia.
+👋 Hello! I’m a Front-End Developer passionate about technology.
 
-💻 Trabalho principalmente com Next.js, React.js, TypeScript, Tailwind CSS e Chakra UI, criando interfaces de usuário modernas e responsivas.
+💻 I mainly work with Next.js, React.js, TypeScript, Tailwind CSS, and Chakra UI, building modern and responsive user interfaces.
 
-🚀 Tenho experiência na integração com APIs REST utilizando Axios e estou sempre explorando novas ferramentas e técnicas para melhorar a performance e a experiência do usuário.
+🚀 I have experience integrating with REST APIs using Axios and I’m always exploring new tools and techniques to improve performance and user experience.
 
-🎨 Adoro transformar designs criados no Figma em componentes reutilizáveis e eficientes, seguindo as melhores práticas de design patterns.
+🎨 I love transforming designs created in Figma into reusable and efficient components, following best practices and design patterns.
 
-🔧 Sou adepto de metodologias ágeis, e estou sempre em busca de colaborar em projetos inovadores que impactem positivamente as pessoas.
+🔧 I’m an advocate of agile methodologies, and I’m always looking to collaborate on innovative projects that positively impact people.
 
-📚 Estou constantemente aprendendo e contribuindo com a comunidade de desenvolvedores, compartilhando conhecimento e trabalhando em projetos de código aberto.
-
+📚 I’m constantly learning and contributing to the developer community, sharing knowledge and working on open-source projects.
 
 <div align="center">
   <a href="https://github.com/lnfidalgo">
