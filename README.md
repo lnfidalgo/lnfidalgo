@@ -1,16 +1,84 @@
-## Hello! I’m Lucas Fidalgo
+# 👋 Hi, I'm Lucas
 
-👋 Hello! I’m a Front-End Developer passionate about technology.
+I'm a **Front-End Developer** focused on building **modern, scalable, and high-performance interfaces**, mainly for **SaaS products**. I enjoy working with clean front-end architecture, reusable components, complex API integrations, and delivering real value through UX and performance.
 
-💻 I mainly work with Next.js, React.js, TypeScript, Tailwind CSS, and Chakra UI, building modern and responsive user interfaces.
+I work daily with **React, Next.js, and TypeScript**, dealing with multi-tenant applications, authentication flows, performance optimization, and external integrations.
 
-🚀 I have experience integrating with REST APIs using Axios and I’m always exploring new tools and techniques to improve performance and user experience.
+---
 
-🎨 I love transforming designs created in Figma into reusable and efficient components, following best practices and design patterns.
+## 🚀 What I do on a daily basis
 
-🔧 I’m an advocate of agile methodologies, and I’m always looking to collaborate on innovative projects that positively impact people.
+- 🧩 Build applications using **Next.js (App Router)** and **React**
+- 🏗️ Create reusable components and scalable design systems
+- ⚡ Optimize performance (lazy loading, code splitting, bundle optimization)
+- 🔌 Integrate REST APIs and third-party services
+- 🔐 Implement authentication and OAuth flows on the front-end
+- 🧪 Write E2E tests to ensure stability and predictability
 
-📚 I’m constantly learning and contributing to the developer community, sharing knowledge and working on open-source projects.
+---
+
+## 🛠️ Main Stack
+
+### 💻 Front-End
+- React 19
+- Next.js 15
+- TypeScript
+- Tailwind CSS
+- Radix UI
+- Framer Motion
+
+### 🧠 State & Forms
+- React Hook Form
+- Zod
+- Context API
+- Custom Hooks
+
+### 🧪 Testing
+- Cypress (E2E)
+- Page Object Pattern
+
+### 🔗 Integrations
+- Meta Business API  
+- WhatsApp Business API  
+- Instagram Graph API  
+- Stripe  
+- Asaas  
+- Pagar.me  
+
+### ⚙️ Tooling & Code Quality
+- ESLint
+- Prettier
+- Husky
+- lint-staged
+- Turbopack
+
+---
+
+## 🧩 What I value in code
+
+- ✔️ Clear and scalable front-end architecture  
+- ✔️ Well-defined componentization  
+- ✔️ Strong type safety with TypeScript  
+- ✔️ Readable code over “clever” code  
+- ✔️ Performance and UX working together  
+- ✔️ Tests as part of the development process  
+
+---
+
+## 📦 Currently
+
+Working on a **SaaS platform** that serves **hundreds of customers**, handling real-world challenges related to scalability, performance, and long-term maintainability — always aiming for simple, efficient, and sustainable solutions.
+
+---
+
+## 📫 Let’s connect
+
+If you want to talk about front-end, Next.js, architecture, APIs, or anything tech-related:
+
+- 💼 LinkedIn: (https://www.linkedin.com/in/lucas-fidalgo-29138a23a/)
+- 📧 Email: lucasfidalgo07@gmail.com
+
+Feel free to explore the repositories 🚀  
 
 <div align="center">
   <a href="https://github.com/lnfidalgo">
